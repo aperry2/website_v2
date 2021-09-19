@@ -1,0 +1,10 @@
+body {
+  color: white;
+  background-image: url("stars.jpg");
+}
+
+p {
+  padding: 20px;
+  margin-right: 80%;
+  background-color: black;
+}
