@@ -96,6 +96,6 @@ class Planet {
 
   show(mode) {
     // rotateY(frameRate * 0.05);
-    sphere(this.r, 12, 12);
+    sphere(this.r);
   }
 }
