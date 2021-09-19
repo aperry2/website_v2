@@ -51,7 +51,7 @@ function draw() {
 }
 
 function drawActiveCanvas() {
-  background(230);
+  background(0, 0);
   // cam.move(0, -400, -100);
   // cam.tilt(0.8);
 
