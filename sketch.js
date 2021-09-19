@@ -35,8 +35,8 @@ function setup() {
   planets[5].words = "About";
 
   noStroke();
-  sunColor = color(255, 255, 255);
-  // normalMaterial();
+  sunColor = color(255, 255, 0);
+  normalMaterial();
 }
 
 function centerCanvas() {
